@@ -105,5 +105,3 @@ Pour la remise à neuf d'un site de vente pour motos, j'ai du tester plusieurs e
 |-----------------------------|-----------------------------|
 | Utilisation d'extensions WP | Documentation légère pour une extension                      |
 |                             | La première extension n'était pas compatible avec les autres |
-
-
